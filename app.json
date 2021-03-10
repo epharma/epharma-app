@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "epharma",
+    "slug": "epharma",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "scheme": "myapp",
+    "splash": {
+      "image": "./assets/images/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#CFEBEA"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "description": "ePharma lets you scan the QR or barcode on drug labels to verify their validity before consumption.",
+    "android": {
+      "package": "com.epharma.app"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+[0424/003639.480:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0424/021838.737:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0424/084532.070:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0424/221709.729:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0425/002501.984:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0425/015455.995:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0425/194803.406:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0808/133613.510:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0808/183830.443:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0126/130456.093:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0126/170112.858:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0126/170114.281:ERROR:exception_snapshot_win.cc(99)] thread ID 7216 not found in process
+[0126/170112.958:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0126/170114.281:ERROR:exception_snapshot_win.cc(99)] thread ID 5272 not found in process
+[0126/170114.335:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0126/170114.335:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
