@@ -66,10 +66,10 @@ export default function ScanScreen({navigation}) {
             style: "cancel"
           },
           { text: "Check Validity", onPress: () => { 
-            if(data === "6161103640112"){
+            if(data === "6009641350080"){
               setModalVisible(true);
               setInvalidModalVisible(false);
-            }else if(data === "6164004676211"){
+            }else if(data === "794811571940"){
               setInvalidModalVisible(true);
               setModalVisible(false);
             }else{

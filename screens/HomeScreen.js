@@ -66,10 +66,10 @@ export default function HomeScreen({navigation}) {
                     style: "cancel"
                   },
                   { text: "Check Validity", onPress: () => {
-                    if(searchText === "101010"){
+                    if(searchText === "6009641350080"){
                       setModalVisible(true);
                       setInvalidModalVisible(false);
-                    }else if(searchText === "202020"){
+                    }else if(searchText === "794811571940"){
                       setInvalidModalVisible(true);
                       setModalVisible(false);
                     }else{
